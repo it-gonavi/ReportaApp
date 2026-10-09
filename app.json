@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "NOC Reportes",
+    "slug": "noc-reportes",
+    "scheme": "nocreportes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "backgroundColor": "#051428",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "NOC Reportes"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Permite seleccionar fotografías para adjuntar evidencias a los reportes.",
+          "microphonePermission": false
+        }
+      ]
+    ]
+  }
+}

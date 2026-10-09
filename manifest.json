@@ -1,0 +1,959 @@
+{
+  "source": "Presentación NOC: Ciudad Conectada y Segura.png",
+  "source_resolution": [
+    1672,
+    941
+  ],
+  "assets": [
+    {
+      "path": "assets/mockups/01-bienvenida.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        24,
+        163,
+        293,
+        857
+      ],
+      "description": "Recorte del teléfono completo, con marco exterior y elementos existentes; material de referencia",
+      "original_size": [
+        269,
+        694
+      ]
+    },
+    {
+      "path": "assets/mockups/02-login.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        300,
+        163,
+        562,
+        856
+      ],
+      "description": "Recorte del teléfono completo, con marco exterior y elementos existentes; material de referencia",
+      "original_size": [
+        262,
+        693
+      ]
+    },
+    {
+      "path": "assets/mockups/03-dashboard.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        568,
+        163,
+        830,
+        856
+      ],
+      "description": "Recorte del teléfono completo, con marco exterior y elementos existentes; material de referencia",
+      "original_size": [
+        262,
+        693
+      ]
+    },
+    {
+      "path": "assets/mockups/04-nuevo-reporte.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        833,
+        163,
+        1097,
+        856
+      ],
+      "description": "Recorte del teléfono completo, con marco exterior y elementos existentes; material de referencia",
+      "original_size": [
+        264,
+        693
+      ]
+    },
+    {
+      "path": "assets/mockups/05-seguimiento.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        1100,
+        163,
+        1364,
+        856
+      ],
+      "description": "Recorte del teléfono completo, con marco exterior y elementos existentes; material de referencia",
+      "original_size": [
+        264,
+        693
+      ]
+    },
+    {
+      "path": "assets/mockups/06-confirmacion.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        1370,
+        163,
+        1636,
+        856
+      ],
+      "description": "Recorte del teléfono completo, con marco exterior y elementos existentes; material de referencia",
+      "original_size": [
+        266,
+        693
+      ]
+    },
+    {
+      "path": "assets/screens/01-bienvenida.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        42,
+        180,
+        279,
+        835
+      ],
+      "description": "Pantalla interior aproximada; imagen de referencia, no UI interactiva",
+      "original_size": [
+        237,
+        655
+      ]
+    },
+    {
+      "path": "assets/screens/02-login.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        318,
+        181,
+        544,
+        835
+      ],
+      "description": "Pantalla interior aproximada; imagen de referencia, no UI interactiva",
+      "original_size": [
+        226,
+        654
+      ]
+    },
+    {
+      "path": "assets/screens/03-dashboard.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        585,
+        182,
+        811,
+        835
+      ],
+      "description": "Pantalla interior aproximada; imagen de referencia, no UI interactiva",
+      "original_size": [
+        226,
+        653
+      ]
+    },
+    {
+      "path": "assets/screens/04-nuevo-reporte.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        850,
+        182,
+        1080,
+        835
+      ],
+      "description": "Pantalla interior aproximada; imagen de referencia, no UI interactiva",
+      "original_size": [
+        230,
+        653
+      ]
+    },
+    {
+      "path": "assets/screens/05-seguimiento.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        1118,
+        181,
+        1345,
+        835
+      ],
+      "description": "Pantalla interior aproximada; imagen de referencia, no UI interactiva",
+      "original_size": [
+        227,
+        654
+      ]
+    },
+    {
+      "path": "assets/screens/06-confirmacion.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        1387,
+        181,
+        1617,
+        835
+      ],
+      "description": "Pantalla interior aproximada; imagen de referencia, no UI interactiva",
+      "original_size": [
+        230,
+        654
+      ]
+    },
+    {
+      "path": "assets/images/photo-city-onboarding.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        41,
+        523,
+        283,
+        681
+      ],
+      "description": "Vista nocturna urbana extraída de bienvenida. El área pertenece a una composición aplanada; no es fotografía maestra",
+      "original_size": [
+        242,
+        158
+      ]
+    },
+    {
+      "path": "assets/images/city-banner.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        710,
+        1,
+        1090,
+        146
+      ],
+      "description": "Panorámica urbana superior, incluye líneas de efecto luminoso de la composición",
+      "original_size": [
+        380,
+        145
+      ]
+    },
+    {
+      "path": "assets/images/city-banner-wide.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        696,
+        0,
+        1662,
+        150
+      ],
+      "description": "Panorámica recortada de la cabecera; puede incluir texto/íconos superpuestos",
+      "original_size": [
+        966,
+        150
+      ]
+    },
+    {
+      "path": "assets/images/event-electricity-dashboard.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        590,
+        542,
+        639,
+        592
+      ],
+      "description": "Miniatura original del dashboard, avería eléctrica",
+      "original_size": [
+        49,
+        50
+      ]
+    },
+    {
+      "path": "assets/images/event-water-dashboard.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        590,
+        606,
+        639,
+        655
+      ],
+      "description": "Miniatura original del dashboard, calle inundada",
+      "original_size": [
+        49,
+        49
+      ]
+    },
+    {
+      "path": "assets/images/event-road-dashboard.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        590,
+        670,
+        639,
+        719
+      ],
+      "description": "Miniatura original del dashboard, semáforo fuera de servicio",
+      "original_size": [
+        49,
+        49
+      ]
+    },
+    {
+      "path": "assets/images/event-tree-dashboard.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        590,
+        734,
+        639,
+        783
+      ],
+      "description": "Miniatura original del dashboard, árbol caído",
+      "original_size": [
+        49,
+        49
+      ]
+    },
+    {
+      "path": "assets/images/event-powerline-01.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        1131,
+        473,
+        1207,
+        554
+      ],
+      "description": "Foto del seguimiento: tendido eléctrico",
+      "original_size": [
+        76,
+        81
+      ]
+    },
+    {
+      "path": "assets/images/event-powerline-02.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        1211,
+        473,
+        1287,
+        554
+      ],
+      "description": "Foto del seguimiento: vehículo de asistencia",
+      "original_size": [
+        76,
+        81
+      ]
+    },
+    {
+      "path": "assets/images/event-powerline-03.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        1291,
+        473,
+        1350,
+        554
+      ],
+      "description": "Foto del seguimiento: vía y tendido eléctrico con +2 superpuesto",
+      "original_size": [
+        59,
+        81
+      ]
+    },
+    {
+      "path": "assets/maps/map-report.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        868,
+        665,
+        1076,
+        767
+      ],
+      "description": "Recorte de mapa en nuevo reporte con pin y parte de etiqueta",
+      "original_size": [
+        208,
+        102
+      ]
+    },
+    {
+      "path": "assets/maps/map-status.png",
+      "type": "crop-exact",
+      "source_rect_xyxy": [
+        1119,
+        319,
+        1350,
+        461
+      ],
+      "description": "Recorte de mapa de seguimiento; contiene pin y controles originales",
+      "original_size": [
+        231,
+        142
+      ]
+    },
+    {
+      "path": "assets/images/noc-original-mark-transparent.png",
+      "type": "masked-raster",
+      "description": "Isotipo azul aislado por máscara cromática; puede contener antialiasing imperfecto",
+      "original_size": [
+        103,
+        110
+      ]
+    },
+    {
+      "path": "assets/icons/svg/electricity.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/water.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/road.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/climate.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/location.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/plus.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/check.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/home.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/report.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/profile.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/notifications.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/search.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/camera.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/calendar.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/users.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/target.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/chart.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/arrow-right.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/chevron-left.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/share.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/shield.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/success-medallion.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/eye-off.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/mail.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/lock.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/clock.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/layers.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/menu.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/svg/noc-logo-recreated.svg",
+      "type": "recreated-svg",
+      "description": "Ícono vectorial recreado para la app, no extracción idéntica del píxel"
+    },
+    {
+      "path": "assets/icons/png/lock.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/climate.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/plus.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/mail.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/success-medallion.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/shield.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/share.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/arrow-right.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/clock.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/layers.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/chart.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/menu.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/search.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/profile.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/report.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/notifications.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/check.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/eye-off.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/chevron-left.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/location.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/camera.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/noc-logo-recreated.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/water.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/electricity.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/calendar.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/home.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/target.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/road.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/icons/png/users.png",
+      "type": "recreated-png",
+      "description": "PNG transparente 256x256 generado del SVG vectorial"
+    },
+    {
+      "path": "assets/previews/catalogo-assets.png",
+      "type": "contact-sheet",
+      "description": "Vista general de activos individuales"
+    },
+    {
+      "path": "assets/components-reference/01-login-email-field.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        327,
+        424,
+        544,
+        469
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/02-login-password-field.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        327,
+        476,
+        544,
+        521
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/03-login-primary-button.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        327,
+        578,
+        544,
+        625
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/04-login-social-buttons.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        333,
+        666,
+        539,
+        730
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/05-dashboard-search-field.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        592,
+        282,
+        818,
+        319
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/06-dashboard-new-report-cta.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        591,
+        330,
+        818,
+        387
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/07-dashboard-category-electric.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        591,
+        426,
+        644,
+        499
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/08-dashboard-category-water.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        649,
+        426,
+        705,
+        499
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/09-dashboard-category-road.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        709,
+        426,
+        765,
+        499
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/10-dashboard-category-climate.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        768,
+        426,
+        821,
+        499
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/11-dashboard-incident-row.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        590,
+        538,
+        818,
+        596
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/12-dashboard-bottom-nav.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        586,
+        805,
+        814,
+        851
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/13-report-progress-stepper.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        875,
+        242,
+        1073,
+        292
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/14-report-electric-tile.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        865,
+        337,
+        939,
+        420
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/15-report-water-tile.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        942,
+        337,
+        1011,
+        420
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/16-report-climate-tile.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        1014,
+        337,
+        1084,
+        420
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/17-report-title-input.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        864,
+        478,
+        1086,
+        515
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/18-report-description-input.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        863,
+        533,
+        1088,
+        620
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/19-report-location-map.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        864,
+        663,
+        1088,
+        776
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/20-status-incident-header.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        1120,
+        251,
+        1351,
+        316
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/21-status-picture-row.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        1129,
+        473,
+        1355,
+        553
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/22-status-information-card.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        1128,
+        582,
+        1354,
+        682
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/23-status-timeline.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        1128,
+        711,
+        1354,
+        856
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/24-confirmation-illustration.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        1418,
+        240,
+        1609,
+        453
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/25-confirmation-details.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        1408,
+        566,
+        1617,
+        728
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    },
+    {
+      "path": "assets/components-reference/26-confirmation-primary-button.png",
+      "type": "ui-crop-reference",
+      "source_rect_xyxy": [
+        1408,
+        742,
+        1617,
+        787
+      ],
+      "description": "Recorte literal del componente en la lámina. Útil como guía visual: preferir el componente React Native editable."
+    }
+  ]
+}
